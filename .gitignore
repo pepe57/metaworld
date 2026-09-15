@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+
+outputs/
+logs/
+wandb/
+
+*.ckpt
+*.pth
+*.pt
+*.safetensors
+*.mp4
+*.avi
+*.mov
